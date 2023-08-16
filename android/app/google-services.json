@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "483840949507",
+    "project_id": "scan-my-laundry-agent",
+    "storage_bucket": "scan-my-laundry-agent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483840949507:android:b4583aff9acd150e4cfd36",
+        "android_client_info": {
+          "package_name": "com.scanmylaundry.agent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483840949507-pgcdaajhtksb8doq4em88sb7mg3mvq69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9R9d2ai61IhscUeyIXiNSRIJo8vAxyzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483840949507-pgcdaajhtksb8doq4em88sb7mg3mvq69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
